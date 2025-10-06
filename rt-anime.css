@@ -1,8 +1,0 @@
-/* rt-anime.css - styling halaman Anime RTube2811 */
-body {margin:0;font-family:sans-serif;background:#0b0f19;color:#fff;}
-#rt-anime-page {padding:20px;}
-.anime-grid {display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:12px;}
-.anime-card {background:#1a2236;border-radius:10px;overflow:hidden;cursor:pointer;transition:.2s;}
-.anime-card:hover {transform:translateY(-5px);}
-.anime-card img {width:100%;display:block;}
-.anime-card .info {padding:10px;font-size:14px;}
